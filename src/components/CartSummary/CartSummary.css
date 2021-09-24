@@ -1,0 +1,9 @@
+.summary-section h5 {
+  background-color: teal;
+  padding: 10px 7px;
+  margin-left: -25px;
+  margin-right: -10px;
+  margin-bottom: 2px;
+  color: white;
+  text-align: center;
+}
